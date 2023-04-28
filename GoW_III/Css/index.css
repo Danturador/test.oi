@@ -1,0 +1,218 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url("/Images/God\ of\ War3BG.jpg") no-repeat center center fixed;
+    -khtml-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    font-size: 18px;
+}
+
+.navMenu {
+    padding: 0;
+    margin: 0;
+    box-sizing: content-box;
+    left: 0;
+    position: relative;
+    /* position: fixed; */
+    display: flex;
+    z-index: 1000;
+    height: 40px;
+    justify-content: right;
+}
+
+.nav {
+    display: flex;
+    justify-content: right;
+    /* position: fixed; */
+    width: 70%;
+    height: 180%;
+    /* background-color: aqua; */
+}
+
+.nav>p {
+    border: 1px solid rgba(6, 31, 119, 1);
+    cursor: pointer;
+    text-align: center;
+    color: red;
+    background-color: rgba(76, 74, 210, 1);
+    margin: 0 0 auto 0;
+    width: 19%;
+    height: 60%;
+}
+
+.mainContent {
+    /* position: relative; */
+    /* z-index: 0; */
+    background-color: black;
+    opacity: 90%;
+    color: whitesmoke;
+    top: 750px;
+    width: 90%;
+    height: 120%;
+    margin: 5% auto 0 auto;
+}
+
+
+.Characters_Weapons>div {
+    display: flex;
+    padding: 5px 0;
+}
+
+.Characters_Weapons>div>div>img {
+    float: left;
+    width: 20%;
+    padding: 3% 0 0 0;
+}
+
+.Characters_Weapons>div>div>p,
+.Characters_Weapons>div>div>ul,
+.Characters_Weapons>div>div>h3 {
+    padding: 0 0 0 25%;
+}
+
+/* .Characters_Weapons > div {
+    display: inline-block;
+    justify-content: right; */
+    /* float: left; */
+    /* position: relative;
+} */
+
+.navMenu>.logo {
+    margin: 0 auto 0 0;
+    height: 100%
+}
+
+/* p {
+    text-indent: 20px;
+    padding: 0;
+} */
+
+h3 {
+    width: 90%;
+    margin: 10px auto 3px auto;
+}
+
+.mainContent>div {
+    margin: auto;
+    padding: 1% 0 1% 0;
+    width: 95%;
+    height: 120%;
+}
+
+.Enemies {
+    display: flex;
+}
+
+.Enemies>div>p {
+    text-indent: 0;
+    text-align: center;
+}
+
+.Enemies>div {
+    width: 15%;
+    /* border: 1px solid red; */
+    padding-right: 3%;
+}
+
+.Enemies>div>img {
+    display: inline-block;
+    width: 100%;
+    /* position: relative; */
+    /* z-index: 10; */
+    /* width: 90px; */
+    border: 1px solid red;
+    -webkit-transition: width 0.5s;
+    -moz-transition: width 0.5s;
+    -o-transition: width 0.5s;
+    transition: width 0.5s;
+}
+
+.Enemies>div>img:hover {
+    /* cursor: zoom-in; */
+    /* -webkit-transform: scale(2);
+    -ms-transform: scale(2);
+    transform: scale(2); */
+    /* position: relative;
+    z-index: 10;
+    width: 150%; */
+}
+/* 
+.modal:hover {
+    display: block;
+    cursor: zoom-out;
+    -webkit-transition: width 0.5s;
+    -moz-transition: width 0.5s;
+    -o-transition: width 0.5s;
+    transition: width 0.5s;
+}
+
+.modal {
+    border: 1px solid red;
+    display: none;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.6);
+    z-index: 1000;
+}
+ 
+.modal>.modal_content {
+    background-color: #fa6e6e;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    z-index: 99999;
+}
+
+.modal>.modal_content:hover {
+    cursor: zoom-in;
+} */
+
+.BladesOfChaos {
+    /* position: absolute; */
+    z-index: 100;
+    right: 0%;
+    top: 0%;
+    /* z-index: 1000; */
+    width: 15%;
+    /* transform-origin: 50% 0; */
+    /* transition: 1s revert;
+    transition-delay: 0s;
+    transition-duration: 5s; */
+    /* transition: rotate 5s cubic-bezier(0.36, 0, 0.646, 1); */
+}
+
+/* .BladesOfChaos:hover {
+    animation: BladesOfChaos 5s cubic-bezier(0.36, 0, 0.646, 1);
+}
+
+@keyframes BladesOfChaos {
+    
+    25% {
+        transform: rotate(-6deg);
+    }
+    50% {
+        transform: rotate(6deg);
+    }
+    75% {
+        transform: rotate(-6deg);
+    }
+    
+    100% {
+        transform: rotate(6deg);
+    }
+} */
