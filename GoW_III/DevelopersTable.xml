@@ -2,27 +2,13 @@
 
 <infoAboutGames>
    <infoAboutGame>
-      <yearOfIssue>
-         2005
-      </yearOfIssue>
-      <gameTitle>
-         God of War
-      </gameTitle>
-      <leaders>
-         Дэвид Яффе
-      </leaders>
-      <producers>
-         Шеннон Стадстилл 
-      </producers>
-      <gameDesigners>
-       	Дэвид Яффе  
-      </gameDesigners>
-      <scriptwriters>
-         Марианна Кравчук, Александр Штейн, Дэвид Яффе, Кейт Фэй 
-      </scriptwriters>
-      <composers>
-         Жерар Марино, Майк Рейган, Рон Фиш, Уинифред Филлипс, Винни Уолдрон, Крис Веласко, Марчелло де Франциски 
-      </composers>
+      <yearOfIssue>2005</yearOfIssue>
+      <gameTitle> God of War</gameTitle>
+      <leaders>Дэвид Яффе</leaders>
+      <producers>Шеннон Стадстилл</producers>
+      <gameDesigners>Дэвид Яффе</gameDesigners>
+      <scriptwriters>Марианна Кравчук, Александр Штейн, Дэвид Яффе, Кейт Фэй</scriptwriters>
+      <composers>Жерар Марино, Майк Рейган, Рон Фиш, Уинифред Филлипс, Винни Уолдрон, Крис Веласко, Марчелло де Франциски </composers>
    </infoAboutGame>
    <infoAboutGame>
       <yearOfIssue>
