@@ -1,54 +1,119 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0"?>
 
-<root>
-
-<string>
-    <id>1</id>
-    <td_date>12.01.2015</td_date>
-    <name>Внимание! Акция от ТМ «Лакалут»!</name>
-    <text >
-        При покупке зубной пасты ТМ «Лакалут вайт» или «Лакалут актив» Вы получаете скидку 30% на зубную щетку ТМ «Лакалут вайт» или «Лакалут актив». 
-        </text>
-</string>
-
-
-<string>
-    <id>2</id>
-    <td_date>12.01.2015</td_date>
-    <name>Уважаемые родители! Не упустите возможность принять участие в акции.</name>
-    <text>
-    При покупке джамбо упаковок Pampers Premium и Pampers Activ Вы гарантировано получаете подарок*! 
-    Главный приз-фотосессия для Вас и Вашего малыша.</text>
-</string>
-
-
-<string>
-    <id>3</id>
-    <td_date>03.12.2014</td_date>
-    <name>Вольтарен эмульгель со скидкой 15%!</name>
-    <text>
-    С 01.12.2014  при покупке Вольтарен эмульгель 50 г., Вы получаете скидку 15%. 
-    Скидка по акции не суммируется со скидкой по дисконтной карте.</text>
-</string>
-
-
-<string>
-    <id>4</id>
-    <td_date>03.12.2014</td_date>
-    <name>Скидка 50% при покупке двух единиц ТМ Бюбхен</name>
-    <text>
-    С 01.12.2014 по 31.12.2014 при покупке двух единиц продукции ТМ «Бюбхен» Вы получаете скидку 50% . 
-    Скидка действует на позицию с более низкой ценой.</text>
-</string>
-
-
-<string>
-    <id>5</id>
-    <td_date>03.12.2014</td_date>
-    <name>25% скидка от ТМ NUK!</name>
-    <text>
-    С 01.12.2014 по 31.12.2014  при покупке любой продукции ТМ «NUK» Вы получаете скидку -25%. 
-    Скидка 25% не суммируется со скидкой дисконтной карты.</text>
-</string>
-
-</root>
+<infoAboutGames>
+   <infoAboutGame>
+      <yearOfIssue>
+         2005
+      </yearOfIssue>
+      <gameTitle>
+         God of War
+      </gameTitle>
+      <leaders>
+         Дэвид Яффе
+      </leaders>
+      <producers>
+         Шеннон Стадстилл 
+      </producers>
+      <gameDesigners>
+       	Дэвид Яффе  
+      </gameDesigners>
+      <scriptwriters>
+         Марианна Кравчук, Александр Штейн, Дэвид Яффе, Кейт Фэй 
+      </scriptwriters>
+      <composers>
+         Жерар Марино, Майк Рейган, Рон Фиш, Уинифред Филлипс, Винни Уолдрон, Крис Веласко, Марчелло де Франциски 
+      </composers>
+   </infoAboutGame>
+   <infoAboutGame>
+      <yearOfIssue>
+         2007
+      </yearOfIssue>
+      <gameTitle>
+         God of War II
+      </gameTitle>
+      <leaders>
+         Дэвид Яффе, Кори Барлог
+      </leaders>
+      <producers>
+         Стив Катерсон 
+      </producers>
+      <gameDesigners>
+         Кори Барлог 
+      </gameDesigners>
+      <scriptwriters>
+         Марианна Кравчук, Кори Барлог, Джеймс Барлог 
+      </scriptwriters>
+      <composers>
+         Жерар Марино, Майк Рейган, Рон Фиш, Крис Веласко 
+      </composers>
+   </infoAboutGame>
+   <infoAboutGame>
+      <yearOfIssue>
+         2010
+      </yearOfIssue>
+      <gameTitle>
+         God of War III
+      </gameTitle>
+      <leaders>
+       	Стиг Асмуссен 
+      </leaders>
+      <producers>
+       	Стив Катерсон 
+      </producers>
+      <gameDesigners>
+         Тодд Папи 
+      </gameDesigners>
+      <scriptwriters>
+       	Марианна Кравчук 
+      </scriptwriters>
+      <composers>
+         Жерар Марино, Майк Рейган, Рон Фиш, Крис Веласко, Джефф Рона 
+      </composers>
+   </infoAboutGame>
+   <infoAboutGame>
+      <yearOfIssue>
+         2018
+      </yearOfIssue>
+      <gameTitle>
+         God of War
+      </gameTitle>
+      <leaders>
+         Кори Барлог 
+      </leaders>
+      <producers>
+         Юми Янг, Элизабет Дэм Вонг, Шон Луэллин, Чад Кокс, Эрик Фонг
+      </producers>
+      <gameDesigners>
+       	Дерек Дэниелс 
+      </gameDesigners>
+      <scriptwriters>
+       	Мэтт Софос, Ричард Зангранд Гобер, Кори Барлог 
+      </scriptwriters>
+      <composers>
+         Беар Маккрири
+      </composers>
+   </infoAboutGame>
+   <infoAboutGame>
+      <yearOfIssue>
+         2022
+      </yearOfIssue>
+      <gameTitle>
+         God of War: Ragnarök
+      </gameTitle>
+      <leaders>
+         Эрик Уильямс 
+      </leaders>
+      <producers>
+         Юми Янг, Элизабет Дэм Вонг, Чад Кокс, Кори Барлог 
+      </producers>
+      <gameDesigners>
+         Джейсон Макдональд 
+      </gameDesigners>
+      <scriptwriters>
+         Мэтт Софос, Ричард Зангранд Гобер 
+      </scriptwriters>
+      <composers>
+         Беар Маккрири
+      </composers>
+   </infoAboutGame>
+</infoAboutGames>
