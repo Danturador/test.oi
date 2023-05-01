@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 
+<infoAboutGames>
    <infoAboutGame>
       <yearOfIssue>
          2005
@@ -115,3 +116,4 @@
          Беар Маккрири
       </composers>
    </infoAboutGame>
+</infoAboutGames>
